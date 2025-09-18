@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_7\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_7",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_7\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_7\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_6\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_6",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_6\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_4\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_4",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_4\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_3\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_3",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_3\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_5\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_5",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_5\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_8\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_8",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_8\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_2\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_2",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_2\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_1\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_1",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_1\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Estructuras\\Ejemplo_1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
