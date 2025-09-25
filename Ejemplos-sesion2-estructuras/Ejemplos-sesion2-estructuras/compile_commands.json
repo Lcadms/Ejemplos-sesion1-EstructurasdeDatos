@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo5-sesion2\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo5-sesion2",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo5-sesion2\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo5-sesion2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo4-sesion2\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo4-sesion2",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo4-sesion2\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo4-sesion2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo3-sesion2\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo3-sesion2",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo3-sesion2\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo3-sesion2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo2-sesion2\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo2-sesion2",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo2-sesion2\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo2-sesion2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo6-sesion2\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo6-sesion2",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo6-sesion2\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo6-sesion2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo1-sesion2\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo1-sesion2",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo1-sesion2\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion2-estructuras\\Ejemplos-sesion2-estructuras\\Ejemplo1-sesion2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
