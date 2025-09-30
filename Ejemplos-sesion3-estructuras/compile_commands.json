@@ -1,0 +1,41 @@
+[{
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\NodoCola.hpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\NodoCola.hpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\Cola.hpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\Cola.hpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\NodoCola.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\NodoCola.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\Cola.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\Cola.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoCola\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\Pila.hpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\Pila.hpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\NodoPila.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\NodoPila.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\NodoPila.hpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\NodoPila.hpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\Pila.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\Pila.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\main.cpp",
+  "directory": "C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila",
+  "command": "clang++ -c C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\main.cpp -o C:\\Users\\lcadm\\Desktop\\Estructuras\\Ejemplos-sesion3-estructuras\\NodoPila\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

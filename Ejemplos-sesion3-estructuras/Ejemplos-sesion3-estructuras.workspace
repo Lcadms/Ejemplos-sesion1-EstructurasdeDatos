@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Ejemplos-sesion3-estructuras" Database="" Version="10000">
+  <Project Name="NodoPila" Path="NodoPila/NodoPila.project" Active="Yes"/>
+  <Project Name="NodoCola" Path="NodoCola/NodoCola.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="NodoPila" ConfigName="Debug"/>
+      <Project Name="NodoCola" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="NodoPila" ConfigName="Release"/>
+      <Project Name="NodoCola" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
